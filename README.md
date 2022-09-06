@@ -5,6 +5,8 @@
 
 A tool to give runners an online presence. Check out the project's [documentation](http://Ziegelstein.github.io/pySchieber/).
 
+A demp runs on the [soycaf.net](https://soycaf.net).
+
 # Prerequisites
 
 - [Docker](https://docs.docker.com/docker-for-mac/install/)
